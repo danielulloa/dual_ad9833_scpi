@@ -1,0 +1,6 @@
+Para correr el código es necesaria la libreria ControlP5.
+Descargar y seguir las instrucciones del repositorio de github
+de su desarrollador.
+
+Descarga: https://github.com/sojamo/controlp5/releases/download/v2.2.6/controlP5-2.2.6.zip
+Instrucciones: https://github.com/sojamo/controlp5

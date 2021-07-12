@@ -1,0 +1,5 @@
+Para compilar el código es necesario instalar la
+biblioteca MD_AD9833 en Arduino: 
+Herramientas->Gestion de Bibliotecas y buscar MD_AD9833.
+
+La biblioteca SCPI está incluida en la carpeta src.
