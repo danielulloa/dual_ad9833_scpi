@@ -1,5 +1,5 @@
 # Generador DDS programable
-Este generador es un instrumento digital realizado como proyecto para la asignatura Instrumentos y Mediciones II de la carrea de Ingeniería Electrónica de la Universidad Nacional de la Patagonia San Juan Bosco.
+Este generador es un instrumento digital realizado como proyecto para la asignatura Instrumentos y Mediciones II de la carrera Ingeniería Electrónica de la Universidad Nacional de la Patagonia San Juan Bosco.
 
 ![img](img/isometric.png)
 
